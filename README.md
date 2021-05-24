@@ -4,4 +4,3 @@
  
  🌱 I’m currently learning HTML, CSS & JS
  
- My personal page: [portfolio](https://montalvani.ml/)
