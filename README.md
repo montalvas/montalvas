@@ -12,7 +12,7 @@
 
 :man_student: :man_technologist: I'm studying computer science at the federal institute of Sergipe.
 
-:books: I’m currently learning 'Desenvolvimento Web - Flask (CodeShow)'.
+:books: I’m currently learning 'Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming (Eric Matthes)'.
 
 :outbox_tray: 2021 Goals: Finding a job as a web developer.
 
