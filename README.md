@@ -12,9 +12,11 @@
 
 :man_student: :man_technologist: I'm studying computer science at the federal institute of Sergipe.
 
-:books: I’m currently learning 'Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming (Eric Matthes)'.
+:books: These are the subjects I am currently studying: 
+* [Python](https://destiny-crocus-171.notion.site/PYTHON-507ed287cf904293af12534c3bd9e532)
+* [Django](https://destiny-crocus-171.notion.site/DJANGO-54d679623bef447ea5ba0734cb5c368c)
 
-:outbox_tray: 2021 Goals: Finding a job as a web developer.
+:outbox_tray: 2022 Goals: Be a better developer.
 
  
 
