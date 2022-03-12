@@ -6,7 +6,7 @@
 
  
 
-:computer: I'm Front-End and Python Back-End Developer!
+:computer: I'm Python Django Developer!
 
 :house_with_garden: I’m from Brazil.
 
@@ -16,7 +16,7 @@
 * [Python](https://destiny-crocus-171.notion.site/PYTHON-507ed287cf904293af12534c3bd9e532)
 * [Django](https://destiny-crocus-171.notion.site/DJANGO-54d679623bef447ea5ba0734cb5c368c)
 
-:outbox_tray: 2022 Goals: Be a better developer.
+:outbox_tray: 2022 Goals: Conquer my developer vacancy and improve my skills even more. 
 
  
 
