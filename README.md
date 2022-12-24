@@ -2,37 +2,20 @@
 
  
 
-## I'm Lucas Montalvani!
+## Quem sou:
 
- 
-
-:computer: I'm Python Django Developer!
-
-:house_with_garden: I’m from Brazil.
-
-:man_student: :man_technologist: I'm studying computer science at the federal institute of Sergipe.
-
-:books: These are the subjects I am currently studying: 
-* [Python](https://destiny-crocus-171.notion.site/PYTHON-507ed287cf904293af12534c3bd9e532)
-* [Django](https://destiny-crocus-171.notion.site/DJANGO-54d679623bef447ea5ba0734cb5c368c)
-
-:outbox_tray: 2022 Goals: Conquer my developer vacancy and improve my skills even more. 
-
- 
-
-## About me
+- Desenlvovedor front-end apaixonado por ilustrações, animes e mundos virtuais imersivos.
+- Atualmente trabalho como assistente administrativo no SEST SENAT Itabaiana/SE e estou buscando transição para área da tecnologia.
+- Começando a cursar Análise e desenvolvimento de sistemas pela faculdade Descomplica em 2023.
+- Focado em layoults responsivos, aplicações mobile e jogos em canvas.
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/montalvas)](https://github.com/montalvas) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-montalvani-oliveira-albuquerque-101455215/)](https://www.linkedin.com/in/lucas-montalvani-oliveira-albuquerque-101455215/)
+## Skills:
+
+HTML5 - CSS3 - JS6 - PYTHON - GIT
 
 
+## Contato:
 
 
-## Langs:
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
- 
-- Thanks for visiting.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-montalvani-oliveira-albuquerque-101455215/)](https://www.linkedin.com/in/lucas-montalvani-oliveira-albuquerque-101455215/)
