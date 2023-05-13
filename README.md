@@ -1,6 +1,6 @@
-## Desenvolvedor C# fullstack e Unity
+## Desenvolvedor e Analista de Sistemas
 
-## Graduando em Análise e Desenvolvimento de Sistemas
+## Graduação em Análise e Desenvolvimento de Sistemas EAD (em andamento)
 
 ## Contato:
 
